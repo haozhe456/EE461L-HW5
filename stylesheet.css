@@ -1,1 +1,50 @@
+h1 {
+    text-align: center;
+}
 
+.desc {
+    text-align: center;
+    color: blue;
+}
+
+.divider {
+    display: inline-block;
+    width: 45%;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border: 5px solid gray;
+}
+
+.pic {
+    border: 5px solid #555;
+}
+
+.divider-txt {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+
+#linkedin {
+    text-align: center;
+}
+
+a:hover {
+    color: green;
+}
+
+ul {
+    display: inline-block;
+    text-align: center;
+}
+
+li {
+    color: blue;
+}
+
+.container {
+    text-align: center;
+}
